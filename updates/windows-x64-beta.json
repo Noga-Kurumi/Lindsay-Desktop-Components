@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "format": 1,
+    "product": "lindsay-desktop",
+    "platform": "windows-x64",
+    "channel": "beta",
+    "version": "0.2.0-rc.6",
+    "available": false
+  },
+  "signature": "AaRL2NjXrtewe7wT8hYRb7gYtufqBwPC9ETw+Qk6fmfe1LWwG2JMfMu+3Z8PWhbgTtClZWXI20s8u2WWeO9BCA=="
+}
